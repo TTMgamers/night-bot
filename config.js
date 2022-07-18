@@ -3,9 +3,9 @@
 global.DeveloperMode = 'false' //true Or false
 global.linkGC = ['https://chat.whatsapp.com/Kt69lMVe90WLBkCFcoYIyA']
 global.channelYT = ['https://youtube.com/channel/UCPhU6uA_3gUaEvyrFZFgJqg'] 
-global.owner = ['6285646606905', '6281946945315', '6285646606905']// Put your number here
-global.mods = [ '6285646606905' ,  '6281946945315' ,  '6285646606905' ] // Want some help?
-global.prems = [] // Premium user has unlimited limit
+global.owner = ['6283829386551']// Put your number here
+global.mods = ['6283829386551']// Want some help?
+global.prems = ['6283829386551'] // Premium user has unlimited limit
 global.APIs = { // API Prefix
   // name: 'https://website'
   nrtm: 'https://nurutomo.herokuapp.com',
@@ -33,7 +33,7 @@ global.APIKeys = { // APIKey Here
 }
 
 // Sticker WM
-global.packname = 'Raf'
+global.packname = 'TaMs'
 global.author = 'Bot'
 
 global.multiplier = 72366367263636 // The higher, The harder levelup
