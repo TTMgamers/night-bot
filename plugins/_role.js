@@ -62,6 +62,10 @@ handler.before = function (m) {
           : ((user.level >= 800) && (user.level <= 900)) ? 'Legendary 忍忍忍'
           : ((user.level >= 900) && (user.level <= 1000)) ? 'Legendary忍忍忍忍'
           : 'Master 숒 × Legendary 숒'
+          : ((user.level >= 1000) && (user.level <= 1500)) ? 'StarKing DRAGON 忍忍忍
+          : ((user.level >= 1500) && (user.level <= 2000)) ? 'Heavenly King
+          : ((user.level >= 2000) && (user.level <= 5000)) ? 'Heavenly *GOD*
+          : ((user.level >= 5000) && (user.level <= 15000)) ? 'UNIVERSE KING
   user.role = role
   return true
 }
