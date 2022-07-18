@@ -1,11 +1,11 @@
 let handler = async m => m.reply(`
 ┏━━°❀❬ *DONASI* ❭❀°━━┓
-┣➥ *INDOSAT:* [6283146208804]
-┣➥ *Dana:* [6283146208804]
-┣➥ *Gopay:* [6283146208804]
-┣➥ *Ovo:* [6283146208804]
+┣➥ *AXIS:* [083829386551]
+┣➥ *Dana:* [-GADAK-]
+┣➥ *Gopay:* [-GADAK-]
+┣➥ *Ovo:* [-GADAK-]
 ┃ 「 *Chat OWNER* 」
-┃ > *Ingin donasi? Wa.me/6283146208804*
+┃ > *Ingin donasi? Wa.me/6283829386551*
 ┗━━━━━━━━━━━━━━━━
 `.trim()) // Tambah sendiri kalo mau
 handler.help = ['donasi']
