@@ -3,7 +3,7 @@ let info = `
 ┏━━°❀❬ *INFO* ❭❀°━━┓
 ┃
 ┃> Bot Recoded By :
-┃• ALAN BOTZ
+┃• TOGAA BOTZ ( TaMs Bot )
 ┃
 ┃> Bot Dibuat Dengan :
 ┃• JavaScript via NodeJS
@@ -11,16 +11,16 @@ let info = `
 ┃
 ┃> Thanks To :
 ┃• Nurutomo
-┃• Alan Botz
+┃• Toga Botz
 ┃• RC047/Kuhong
 ┃
 ┣━━°❀❬ *DONASI* ❭❀°━━┓
-┣➥ *INDOSAT:* [085718366706]
-┣➥ *Dana:* [085718366706]
-┣➥ *Gopay:* [085718366706]
-┣➥ *Ovo:* [085718366706]
+┣➥ *AXIS:* [083829386551]
+┣➥ *Dana:* [-GADAK-]
+┣➥ *Gopay:* [-GADAK-]
+┣➥ *Ovo:* [-GADAK-]
 ┃ 「 *Chat OWNER* 」
-┃ > *INGIN DOANSI ? https://wa.me/6285718366706*
+┃ > *INGIN DOANSI ? https://wa.me/6283829386551*
 ┗━━━━━━━━━━━━━━━━
 `.trim()
 
