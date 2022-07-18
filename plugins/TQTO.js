@@ -3,17 +3,17 @@
 //kalo mau ada nama kalian chat dulu ke ibnu,izin dulu biar sama² enak
 //di tambahin nama boleh tapi di ilagin jangan walau satu nama pun
 //yg gk tau nomer raku nih nomer nya
-//http://wa.me/6287834993722?text=bg%20izin%20taroh%20nama%20di%20bot%20mu%20yak
+//http://wa.me/6283829386551?text=bg%20izin%20taroh%20nama%20di%20bot%20mu%20yak
 let handler = async (m, { conn, text }) => {
   conn.reply(m.chat, `
 *Pertanyaan:* ${m.text}
 *Jawaban:* ${pickRandom(['Ya','Mungkin iya','Mungkin','Mungkin tidak','Tidak','Tidak mungkin'])}
 `.trim(), m)
 }
-handler.help = ['ɴᴜʀᴜᴛᴏᴍᴏ','ʀᴇɴᴅʏᴄʀᴀғᴛ','ɪʙɴᴜ ɴʀ','ʙᴀᴋᴀ ʙᴏᴛᴢ','ʙᴀᴋᴀ ᴛᴇᴀᴍ']
+handler.help = ['ɴᴜʀᴜᴛᴏᴍO','ʀᴇɴᴅʏᴄʀᴀғᴛ','ɪʙɴᴜ ɴ','ʙᴀᴋᴀ ʙᴏᴛᴢ','ʙᴀᴋᴀ ᴛᴇᴀᴍ']
 handler.tags = ['thnks']
 handler.customPrefix = /(\?$)/
-handler.command = /^rakuganteng$/i
+handler.command = /^togaganteng$/i
 handler.owner = false
 handler.mods = false
 handler.premium = true
